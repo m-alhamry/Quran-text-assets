@@ -1,0 +1,440 @@
+[
+  {
+    "id": "ar_qe_arabic_moyassar",
+    "sourceKey": "arabic_moyassar",
+    "language": "ar",
+    "name": "التفسير الميسر",
+    "author": "Arabic Language - At-Tafsir Al-Muyassar",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [
+      "ar_16"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/arabic_moyassar",
+    "format": "api"
+  },
+  {
+    "id": "ar_qe_arabic_mokhtasar",
+    "sourceKey": "arabic_mokhtasar",
+    "language": "ar",
+    "name": "المختصر في التفسير",
+    "author": "Arabic language - Al-Mukhtsar in Interpreting the Noble Quran",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/arabic_mokhtasar",
+    "format": "api"
+  },
+  {
+    "id": "ar_qe_arabic_yaseer",
+    "sourceKey": "arabic_yaseer",
+    "language": "ar",
+    "name": "اليسير في التفسير",
+    "author": "Al-Yaseer in At-Tafseer",
+    "isTafsir": true,
+    "version": "1.0.22",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/arabic_yaseer",
+    "format": "api"
+  },
+  {
+    "id": "ar_qe_arabic_nafahat",
+    "sourceKey": "arabic_nafahat",
+    "language": "ar",
+    "name": "النفحات المكية",
+    "author": "Al-Nafahāt al-Makkiyyah, by Muhammad bin Salih al-Shawi",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/arabic_nafahat",
+    "format": "api"
+  },
+  {
+    "id": "en_qe_english_rwwad",
+    "sourceKey": "english_rwwad",
+    "language": "en",
+    "name": "English Translation - Rowwad Translation Center",
+    "author": "English Translation - Rowwad Translation Center",
+    "isTafsir": false,
+    "version": "1.0.19",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/english_rwwad",
+    "format": "csv"
+  },
+  {
+    "id": "en_qe_english_saheeh",
+    "sourceKey": "english_saheeh",
+    "language": "en",
+    "name": "English Translation - Noor International Center",
+    "author": "English Translation - Noor International Center",
+    "isTafsir": false,
+    "version": "1.1.2",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/english_saheeh",
+    "format": "csv"
+  },
+  {
+    "id": "fr_qe_french_hameedullah",
+    "sourceKey": "french_hameedullah",
+    "language": "fr",
+    "name": "French Translation - Muhammad Hamidullah",
+    "author": "French Translation - Muhammad Hamidullah",
+    "isTafsir": false,
+    "version": "1.0.2",
+    "enabled": true,
+    "legacyIds": [
+      "fr_31"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/french_hameedullah",
+    "format": "api"
+  },
+  {
+    "id": "de_qe_german_bubenheim",
+    "sourceKey": "german_bubenheim",
+    "language": "de",
+    "name": "German Translation - Frank Bubenheim",
+    "author": "German Translation - Frank Bubenheim",
+    "isTafsir": false,
+    "version": "1.1.4",
+    "enabled": true,
+    "legacyIds": [
+      "de_27"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/german_bubenheim",
+    "format": "csv"
+  },
+  {
+    "id": "de_qe_german_aburida",
+    "sourceKey": "german_aburida",
+    "language": "de",
+    "name": "German Translation - Abu Rida",
+    "author": "German Translation - Abu Rida",
+    "isTafsir": false,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [
+      "de_208"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/german_aburida",
+    "format": "api"
+  },
+  {
+    "id": "es_qe_spanish_garcia",
+    "sourceKey": "spanish_garcia",
+    "language": "es",
+    "name": "Spanish Translation - Isa Garcia",
+    "author": "Spanish Translation - Isa Garcia",
+    "isTafsir": false,
+    "version": "1.0.2",
+    "enabled": true,
+    "legacyIds": [
+      "es_83"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/spanish_garcia",
+    "format": "csv"
+  },
+  {
+    "id": "es_qe_spanish_montada_eu",
+    "sourceKey": "spanish_montada_eu",
+    "language": "es",
+    "name": "Spanish Translation - Noor International Center",
+    "author": "Spanish Translation - Noor International Center",
+    "isTafsir": false,
+    "version": "1.0.1",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/spanish_montada_eu",
+    "format": "csv"
+  },
+  {
+    "id": "it_qe_italian_rwwad",
+    "sourceKey": "italian_rwwad",
+    "language": "it",
+    "name": "Italian Translation - Rowwad Translation Center",
+    "author": "Italian Translation - Rowwad Translation Center",
+    "isTafsir": false,
+    "version": "1.0.2",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/italian_rwwad",
+    "format": "api"
+  },
+  {
+    "id": "it_qe_italian_mokhtasar",
+    "sourceKey": "italian_mokhtasar",
+    "language": "it",
+    "name": "Italian Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "author": "Italian Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/italian_mokhtasar",
+    "format": "api"
+  },
+  {
+    "id": "nl_qe_dutch_center",
+    "sourceKey": "dutch_center",
+    "language": "nl",
+    "name": "Dutch Translation - Rowwad Translation Center",
+    "author": "Dutch Translation - Rowwad Translation Center",
+    "isTafsir": false,
+    "version": "2.0.10",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/dutch_center",
+    "format": "csv"
+  },
+  {
+    "id": "pt_qe_portuguese_nasr",
+    "sourceKey": "portuguese_nasr",
+    "language": "pt",
+    "name": "Portuguese Translation - Helmi Nasr",
+    "author": "Portuguese Translation - Helmi Nasr",
+    "isTafsir": false,
+    "version": "1.4.1",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/portuguese_nasr",
+    "format": "csv"
+  },
+  {
+    "id": "tr_qe_turkish_rwwad",
+    "sourceKey": "turkish_rwwad",
+    "language": "tr",
+    "name": "Turkish Translation - Rowwad Translation Center",
+    "author": "Turkish Translation - Rowwad Translation Center",
+    "isTafsir": false,
+    "version": "1.0.4",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/turkish_rwwad",
+    "format": "csv"
+  },
+  {
+    "id": "tr_qe_turkish_shaban",
+    "sourceKey": "turkish_shaban",
+    "language": "tr",
+    "name": "Turkish Translation - Shaaban British",
+    "author": "Turkish Translation - Shaaban British",
+    "isTafsir": false,
+    "version": "1.1.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/turkish_shaban",
+    "format": "csv"
+  },
+  {
+    "id": "ru_qe_russian_aboadel",
+    "sourceKey": "russian_aboadel",
+    "language": "ru",
+    "name": "Russian Translation - Abu Adel",
+    "author": "Russian Translation - Abu Adel",
+    "isTafsir": false,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [
+      "ru_79"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/russian_aboadel",
+    "format": "api"
+  },
+  {
+    "id": "id_qe_indonesian_affairs",
+    "sourceKey": "indonesian_affairs",
+    "language": "id",
+    "name": "Indonesian Translation - Ministry of Religious Affairs",
+    "author": "Indonesian Translation - Ministry of Religious Affairs",
+    "isTafsir": false,
+    "version": "1.0.1",
+    "enabled": true,
+    "legacyIds": [
+      "id_33"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/indonesian_affairs",
+    "format": "csv"
+  },
+  {
+    "id": "id_qe_indonesian_complex",
+    "sourceKey": "indonesian_complex",
+    "language": "id",
+    "name": "Indonesian Translation - The Complex",
+    "author": "Indonesian Translation - The Complex",
+    "isTafsir": false,
+    "version": "1.0.1",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/indonesian_complex",
+    "format": "csv"
+  },
+  {
+    "id": "ms_qe_malay_basumayyah",
+    "sourceKey": "malay_basumayyah",
+    "language": "ms",
+    "name": "Malay Translation - Abdullah Basumayyah",
+    "author": "Malay Translation - Abdullah Basumayyah",
+    "isTafsir": false,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [
+      "ms_39"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/malay_basumayyah",
+    "format": "api"
+  },
+  {
+    "id": "zh_qe_chinese_suliman",
+    "sourceKey": "chinese_suliman",
+    "language": "zh",
+    "name": "Chinese Translation - Muhammad Suleiman",
+    "author": "Chinese Translation - Muhammad Suleiman",
+    "isTafsir": false,
+    "version": "1.0.8",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/chinese_suliman",
+    "format": "csv"
+  },
+  {
+    "id": "zh_qe_chinese_makin",
+    "sourceKey": "chinese_makin",
+    "language": "zh",
+    "name": "Chinese Translation - Muhammad Makeen",
+    "author": "Chinese Translation - Muhammad Makeen",
+    "isTafsir": false,
+    "version": "1.0.2",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/chinese_makin",
+    "format": "csv"
+  },
+  {
+    "id": "ja_qe_japanese_saeedsato",
+    "sourceKey": "japanese_saeedsato",
+    "language": "ja",
+    "name": "Japanese Translation - Saeed Sato",
+    "author": "Japanese Translation - Saeed Sato",
+    "isTafsir": false,
+    "version": "1.0.13",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/japanese_saeedsato",
+    "format": "csv"
+  },
+  {
+    "id": "ja_qe_japanese_mokhtasar",
+    "sourceKey": "japanese_mokhtasar",
+    "language": "ja",
+    "name": "Japanese Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "author": "Japanese Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/japanese_mokhtasar",
+    "format": "api"
+  },
+  {
+    "id": "fa_qe_persian_ih",
+    "sourceKey": "persian_ih",
+    "language": "fa",
+    "name": "Persian Translation - Rowwad Translation Center",
+    "author": "Persian Translation - Rowwad Translation Center",
+    "isTafsir": false,
+    "version": "1.1.3",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/persian_ih",
+    "format": "csv"
+  },
+  {
+    "id": "fa_qe_persian_mokhtasar",
+    "sourceKey": "persian_mokhtasar",
+    "language": "fa",
+    "name": "Persian Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "author": "Persian Translation of Al-Mukhtasar in Interpreting the Noble Quran",
+    "isTafsir": true,
+    "version": "1.0.0",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/persian_mokhtasar",
+    "format": "api"
+  },
+  {
+    "id": "ur_qe_urdu_junagarhi",
+    "sourceKey": "urdu_junagarhi",
+    "language": "ur",
+    "name": "Urdu Translation - Muhammad Junagarhi",
+    "author": "Urdu Translation - Muhammad Junagarhi",
+    "isTafsir": false,
+    "version": "1.1.3",
+    "enabled": true,
+    "legacyIds": [
+      "ur_54"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/urdu_junagarhi",
+    "format": "csv"
+  },
+  {
+    "id": "bn_qe_bengali_zakaria",
+    "sourceKey": "bengali_zakaria",
+    "language": "bn",
+    "name": "Bengali Translation - Abu Bakr Zakaria",
+    "author": "Bengali Translation - Abu Bakr Zakaria",
+    "isTafsir": false,
+    "version": "1.1.1",
+    "enabled": true,
+    "legacyIds": [
+      "bn_213"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/bengali_zakaria",
+    "format": "api"
+  },
+  {
+    "id": "hi_qe_hindi_omari",
+    "sourceKey": "hindi_omari",
+    "language": "hi",
+    "name": "Hindi Translation - Azizul Haq Al-Omari",
+    "author": "Hindi Translation - Azizul Haq Al-Omari",
+    "isTafsir": false,
+    "version": "1.1.5",
+    "enabled": true,
+    "legacyIds": [
+      "hi_122"
+    ],
+    "sourceUrl": "https://quranenc.com/en/browse/hindi_omari",
+    "format": "csv"
+  },
+  {
+    "id": "sw_qe_swahili_rwwad",
+    "sourceKey": "swahili_rwwad",
+    "language": "sw",
+    "name": "Swahili Translation - Rowad Translation Center",
+    "author": "Swahili Translation - Rowad Translation Center",
+    "isTafsir": false,
+    "version": "1.0.5",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/swahili_rwwad",
+    "format": "csv"
+  },
+  {
+    "id": "sw_qe_swahili_barawani",
+    "sourceKey": "swahili_barawani",
+    "language": "sw",
+    "name": "Swahili Translation - Ali Mohsin Al-Barwani",
+    "author": "Swahili Translation - Ali Mohsin Al-Barwani",
+    "isTafsir": false,
+    "version": "1.0.1",
+    "enabled": true,
+    "legacyIds": [],
+    "sourceUrl": "https://quranenc.com/en/browse/swahili_barawani",
+    "format": "csv"
+  }
+]
